@@ -1,0 +1,13 @@
+#Todo
+- setup deployment of backend in docker container
+- install postgres
+- userbase
+- authentication
+- profile page with ability to edit
+- direct messages
+- friends list
+- group chat support
+- multimedia support for messages
+---
+- <s>initialize git repo for project
+- <s>initialize react app project with eslint, webpack, babel, and typescript</s>
